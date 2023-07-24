@@ -1,8 +1,8 @@
-# 小杨和小刘的车牌自动识别
+# 杨晓晟和刘向维的车牌自动识别
 
-小杨[@Captain-Yang](https://github.com/Captain-Yang)负责车牌自动识别的核心算法
+杨晓晟[@Captain-Yang](https://github.com/Captain-Yang)负责车牌自动识别的核心算法
 
-小刘[@shiweibushiwei](https://github.com/shiweibushiwei)负责图形化界面的实现
+刘向维[@shiweibushiwei](https://github.com/shiweibushiwei)负责图形化界面的实现
 
 ## 内容列表
 
